@@ -6,5 +6,6 @@ int main(){
     int a=34;
     int b=6;
     cout<<a-b;
+    //substraction
     return 0;
 }
